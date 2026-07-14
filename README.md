@@ -15,6 +15,11 @@ The application supports basic CRUD operations:
 
 The main objective of this project was to understand how Django Forms connect frontend forms with backend models and databases.
 
+************Live Project Link:************
+
+https://exam-center-project.onrender.com/
+
+
 ## Technologies Used
 
 Backend:
